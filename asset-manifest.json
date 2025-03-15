@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ticketraiser/static/css/main.6da476f3.css",
+    "main.js": "/ticketraiser/static/js/main.52ae6de6.js",
+    "static/js/453.72f4786a.chunk.js": "/ticketraiser/static/js/453.72f4786a.chunk.js",
+    "index.html": "/ticketraiser/index.html",
+    "main.6da476f3.css.map": "/ticketraiser/static/css/main.6da476f3.css.map",
+    "main.52ae6de6.js.map": "/ticketraiser/static/js/main.52ae6de6.js.map",
+    "453.72f4786a.chunk.js.map": "/ticketraiser/static/js/453.72f4786a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6da476f3.css",
+    "static/js/main.52ae6de6.js"
+  ]
+}
